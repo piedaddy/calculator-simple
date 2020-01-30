@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;  
+} 
+
+.result {
+  background-color: black;
+  color:white;
+  width: 300px;
+  height:40px;
+  border: 3px solid black;
+  margin-bottom: 1em;
+  font-weight: bold;
+  font-size:1.2em;
+  text-align: right;
+}
+
+.input {
+  background-color: white;
+  color:black;
+  width: 300px;
+  height:40px;
+  border: 3px solid black;
+  margin-bottom: 1em;
+  font-weight: bold;
+  font-size:1.2em;
+  text-align: right;
+}
+
+
+
+button {
+background-color: white;
+color:black;
+width: 300px;
+height:40px;
+text-decoration: none;
+border: 3px solid black;
+margin-bottom: 1em;
+}
+
+p {
+  font-size:1.5em;
+  margin: 0;
+  font-weight: bold;
+
+}
